@@ -23,6 +23,12 @@ You can check them out in the [Datasets](/datasets) section.
 ## Selected Publications
 See the full list [here](/publication).
 
+### 2022
+
+[**GALAXY: A Generative Pre-trained Model for Task-Oriented Dialog with Semi-Supervised Learning and Explicit Policy Injection**](https://arxiv.org/pdf/2111.14592.pdf) <br>
+*AAAI 2022 (Long Paper)* <br>
+Wanwei He, Yinpei Dai, **Yinhe Zheng**, Yuchuan Wu, Zheng Cao, Dermot Liu, Peng Jiang, Min Yang, Fei Huang, Luo Si, Jian Sun, Yongbin Li <br> 
+
 ### 2021
 
 [**Stylized dialogue response generation using stylized unpaired texts**](https://www.aaai.org/AAAI21Papers/AAAI-9766.ZhengY.pdf) <br>
@@ -31,7 +37,7 @@ See the full list [here](/publication).
 
 [**Diversifying Dialog Generation via Adaptive Label Smoothing**](https://arxiv.org/abs/2105.14556) <br>
 *ACL 2021 Main Conference (Long Paper)* [[code]](https://github.com/lemon234071/AdaLabel) <br>
-Yida Wang, **Yinhe Zheng (Euqal Contribution)**, Yong Jiang, Minlie Huang <br>
+**Yinhe Zheng (Euqal Contribution)**, Yida Wang, Yong Jiang, Minlie Huang <br>
 
 [**Transferable Persona-Grounded Dialogues via Grounded Minimal Edits**](https://arxiv.org/abs/2109.07713) <br>
 *EMNLP 2021 Main Conference (Long Paper)* <br>
@@ -39,7 +45,7 @@ Chen Henry Wu, **Yinhe Zheng**, Xiaoxi Mao, Minlie Huang <br>
 
 [**Unsupervised Domain Adaptation with Adapter**](-) <br>
 *NeurIPS 2021 ENLSP Workshop* <br>
-Rongsheng Zhang, **Yinhe Zheng (Equal Contribution)**, Xiaoxi Mao, Minlie Huang <br>
+**Yinhe Zheng (Equal Contribution)**, Rongsheng Zhang, Xiaoxi Mao, Minlie Huang <br>
 
 [**MMChat: Multi-Modal Chat Dataset on Social Media**](https://arxiv.org/abs/2108.07154) <br>
 *CoRR 2021* <br>
@@ -61,7 +67,7 @@ Chen Henry Wu, **Yinhe Zheng**, Yida Wang, Zhenyu Yang, Minlie Huang <br>
 
 [**Dialogue distillation: Open-domain dialogue augmentation using unpaired data**](https://arxiv.org/pdf/2009.09427) <br>
 *EMNLP 2020 Main Conference (Long Paper)* <br>
-Rongsheng Zhang, **Yinhe Zheng (Equal Contribution)**, Jianzhi Shao, Xiaoxi Mao, Yadong Xi, Minlie Huang <br>
+**Yinhe Zheng (Equal Contribution)**, Rongsheng Zhang, Jianzhi Shao, Xiaoxi Mao, Yadong Xi, Minlie Huang <br>
 
 [**A large-scale chinese short-text conversation dataset**](https://arxiv.org/pdf/2008.03946.pdf) <br>
 *NLPCC 2020 **<font color="#dd0000"> Best Student Paper </font>*** [[code]](https://github.com/thu-coai/CDial-GPT) [[dataset]](https://github.com/thu-coai/CDial-GPT) <br>
