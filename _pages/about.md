@@ -25,6 +25,14 @@ See the full list [here](/publication).
 
 ### 2022
 
+[**Improving Meta-learning for Low-resource Text Classification and Generation via Memory Imitation**](https://openreview.net/forum?id=6TEI9Sxr3e) <br>
+*ACL 2022 Main Conference (Long Paper)* <br>
+Yingxiu Zhao, Zhiliang Tian, Huaxiu Yao, **Yinhe Zheng**, Dongkyu Lee, Yiping Song, Jian SUN, Nevin Zhang <br> 
+
+[**Rethinking and Refining the Distinct Metric**](https://arxiv.org/pdf/2202.13587.pdf) <br>
+*ACL 2022 Main Conference (Short Paper)* <br>
+Siyang Liu, Sahand Sabour, **Yinhe Zheng**, Pei Ke, Xiaoyan Zhu, Minlie Huang <br> 
+
 [**GALAXY: A Generative Pre-trained Model for Task-Oriented Dialog with Semi-Supervised Learning and Explicit Policy Injection**](https://arxiv.org/pdf/2111.14592.pdf) <br>
 *AAAI 2022 (Long Paper)* <br>
 Wanwei He, Yinpei Dai, **Yinhe Zheng**, Yuchuan Wu, Zheng Cao, Dermot Liu, Peng Jiang, Min Yang, Fei Huang, Luo Si, Jian Sun, Yongbin Li <br> 
