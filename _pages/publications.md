@@ -9,6 +9,10 @@ You can also find all my papers on my [Google Scholar profile](https://scholar.g
 
 ### 2022
 
+[**MMChat: Multi-Modal Chat Dataset on Social Media**](https://arxiv.org/abs/2108.07154) <br>
+*LREC 2022* [[code + dataset]](https://github.com/silverriver/MMChat) <br>
+**Yinhe Zheng**, Guanyi Chen, Xin Liu, Jian Sun <br>
+
 [**Improving Meta-learning for Low-resource Text Classification and Generation via Memory Imitation**](https://openreview.net/forum?id=6TEI9Sxr3e) <br>
 *ACL 2022 Main Conference (Long Paper)* <br>
 Yingxiu Zhao, Zhiliang Tian, Huaxiu Yao, **Yinhe Zheng**, Dongkyu Lee, Yiping Song, Jian SUN, Nevin Zhang <br> 
@@ -39,10 +43,6 @@ Chen Henry Wu, **Yinhe Zheng**, Xiaoxi Mao, Minlie Huang <br>
 *NeurIPS 2021 ENLSP Workshop* <br>
 **Yinhe Zheng (Equal Contribution)**, Rongsheng Zhang, Xiaoxi Mao, Minlie Huang <br>
 
-[**MMChat: Multi-Modal Chat Dataset on Social Media**](https://arxiv.org/abs/2108.07154) <br>
-*CoRR 2021* <br>
-**Yinhe Zheng**, Guanyi Chen, Xin Liu, Ke Lin <br>
-
 [**EVA: An Open-Domain Chinese Dialogue System with Large-Scale Generative Pre-Training**](https://arxiv.org/abs/2108.01547) <br>
 *CoRR 2021* <br>
 Hao Zhou, Pei Ke, Zheng Zhang, Yuxian Gu, **Yinhe Zheng**, Chujie Zheng, Yida Wang, Chen Henry Wu, Hao Sun, Xiaocong Yang, Bosi Wen, Xiaoyan Zhu, Minlie Huang, Jie Tang <br>
@@ -62,7 +62,7 @@ Chen Henry Wu, **Yinhe Zheng**, Yida Wang, Zhenyu Yang, Minlie Huang <br>
 **Yinhe Zheng (Equal Contribution)**, Rongsheng Zhang, Jianzhi Shao, Xiaoxi Mao, Yadong Xi, Minlie Huang <br>
 
 [**A large-scale chinese short-text conversation dataset**](https://arxiv.org/pdf/2008.03946.pdf) <br>
-*NLPCC 2020 **<font color="#dd0000"> Best Student Paper </font>*** [[code]](https://github.com/thu-coai/CDial-GPT) [[dataset]](https://github.com/thu-coai/CDial-GPT) <br>
+*NLPCC 2020 **<font color="#dd0000"> Best Student Paper </font>*** [[code + dataset]](https://github.com/thu-coai/CDial-GPT) <br>
 Yida Wang, Pei Ke, **Yinhe Zheng**, Kaili Huang, Yong Jiang, Xiaoyan Zhu, Minlie Huang <br>
 
 [**Out-of-domain detection for natural language understanding in dialog systems**](https://arxiv.org/pdf/1909.03862) <br>

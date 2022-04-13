@@ -30,10 +30,10 @@ Please cite the following paper if you find this dataset useful:
 
 ```bibtex
 @inproceedings{wang2020large,
-  title={A Large-Scale Chinese Short-Text Conversation Dataset},
-  author={Wang, Yida and Ke, Pei and Zheng, Yinhe and Huang, Kaili and Jiang, Yong and Zhu, Xiaoyan and Huang, Minlie},
-  booktitle={NLPCC},
-  year={2020}
+  title     = {A Large-Scale Chinese Short-Text Conversation Dataset},
+  author    = {Wang, Yida and Ke, Pei and Zheng, Yinhe and Huang, Kaili and Jiang, Yong and Zhu, Xiaoyan and Huang, Minlie},
+  booktitle = {NLPCC},
+  year      = {2020}
 }
 ```
 
@@ -60,20 +60,20 @@ Please cite the following papers if you find this dataset useful:
 
 ```bibtex
 @article{zheng2019personalized,
-  title={Personalized dialogue generation with diversified traits},
-  author={Zheng, Yinhe and Chen, Guanyi and Huang, Minlie and Liu, Song and Zhu, Xuan},
-  journal={arXiv preprint arXiv:1901.09672},
-  year={2019}
+  title   = {Personalized dialogue generation with diversified traits},
+  author  = {Zheng, Yinhe and Chen, Guanyi and Huang, Minlie and Liu, Song and Zhu, Xuan},
+  journal = {arXiv preprint arXiv:1901.09672},
+  year    = {2019}
 }
 
 @inproceedings{zheng2020pre,
-  title={A pre-training based personalized dialogue generation model with persona-sparse data},
-  author={Zheng, Yinhe and Zhang, Rongsheng and Huang, Minlie and Mao, Xiaoxi},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={34},
-  number={05},
-  pages={9693--9700},
-  year={2020}
+  title     = {A pre-training based personalized dialogue generation model with persona-sparse data},
+  author    = {Zheng, Yinhe and Zhang, Rongsheng and Huang, Minlie and Mao, Xiaoxi},
+  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume    = {34},
+  number    = {05},
+  pages     = {9693--9700},
+  year      = {2020}
 }
 ```
 
@@ -91,21 +91,18 @@ A sample Dialogue from MMChat
 
 ### Download
 
-We are releasing part of MMChat, you can download it from the following links:
-
-[MMChat_Split0](https://drive.google.com/file/d/1U7L8TvU7O-tPBrChomeqRQ9gBbUMPZ1t/view?usp=sharing)
-
-[MMChat_Split1](https://drive.google.com/file/d/1OkpF7MAtntn2czuZfujSRc_7rALJ6VRJ/view?usp=sharing)
+You can find the download link of MMChat from this [repo](https://github.com/silverriver/MMChat).
 
 ### Reference
 
 Please cite the following paper if you find this dataset useful:
 
 ```bibtex
-@article{zheng2021mmchat,
-  title={MMChat: Multi-Modal Chat Dataset on Social Media},
-  author={Zheng, Yinhe and Chen, Guanyi and Liu, Xin and Lin, Ke},
-  journal={arXiv preprint arXiv:2108.07154},
-  year={2021}
+@inproceedings{zheng2022MMChat,
+  author    = {Zheng, Yinhe and Chen, Guanyi and Liu, Xin and Sun, Jian},
+  title     = {MMChat: Multi-Modal Chat Dataset on Social Media},
+  booktitle = {Proceedings of The 13th Language Resources and Evaluation Conference},
+  year      = {2022},
+  publisher = {European Language Resources Association},
 }
 ```
