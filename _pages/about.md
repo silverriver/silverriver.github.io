@@ -82,7 +82,7 @@ Chen Henry Wu, **Yinhe Zheng**, Yida Wang, Zhenyu Yang, Minlie Huang <br>
 Yida Wang, Pei Ke, **Yinhe Zheng**, Kaili Huang, Yong Jiang, Xiaoyan Zhu, Minlie Huang <br>
 
 [**Out-of-domain detection for natural language understanding in dialog systems**](https://arxiv.org/pdf/1909.03862) <br>
-*IEEE/ACM Transactions on Audio, Speech, and Language Processing* <br>
+*IEEE/ACM Transactions on Audio, Speech, and Language Processing* [[code]](https://github.com/silverriver/OOD4NLU)<br>
 **Yinhe Zheng**, Guanyi Chen, Minlie Huang <br>
 
 [**Listener's Social Identity Matters in Personalised Response Generation**](https://arxiv.org/pdf/2010.14342.pdf) <br>
