@@ -9,6 +9,10 @@ You can also find all my papers on my [Google Scholar profile](https://scholar.g
 
 ### 2022
 
+[**Lifelong Learning for Question Answering with Hierarchical Prompts**](https://arxiv.org/abs/2208.14602) <br>
+*Arxiv 2022* <br>
+Yi Dai, Hao Lang, **Yinhe Zheng**, Fei Huang, Luo Si, Yongbin Li <br>
+
 [**MMChat: Multi-Modal Chat Dataset on Social Media**](https://arxiv.org/abs/2108.07154) <br>
 *LREC 2022* [[code + dataset]](https://github.com/silverriver/MMChat) <br>
 **Yinhe Zheng**, Guanyi Chen, Xin Liu, Jian Sun <br>
