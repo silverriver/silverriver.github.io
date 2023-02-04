@@ -15,11 +15,11 @@ You can also find all my papers on my [Google Scholar profile](https://scholar.g
 Yingxiu Zhao, **Yinhe Zheng\*\***, Zhiliang Tian, Chang Gao, Jian Sun, Nevin L. Zhang <br>
 
 [**Estimating Soft Labels for Out-of-Domain Intent Detection**](https://aclanthology.org/2022.emnlp-main.18/) <br>
-<span style="color:#2aa198"> *EMNLP 2022 Main Conference (Long Paper)* <font color="#dd0000"> Oral </font> </span> <br>
+<span style="color:#2aa198"> *EMNLP 2022 Main Conference (Long Paper)* <font color="#dd0000"> (Oral) </font> </span> <br>
 Hao Lang, **Yinhe Zheng\*\***, Jian Sun, Fei Huang, Luo Si, Yongbin Li <br>
 
 [**CDConv: A Benchmark for Contradiction Detection in Chinese Conversations**](https://aclanthology.org/2022.emnlp-main.2/) <br>
-<span style="color:#2aa198"> *EMNLP 2022 Main Conference (Long Paper)*  <font color="#dd0000"> Oral </font> </span> [[code + dataset]](https://github.com/thu-coai/CDConv) <br>
+<span style="color:#2aa198"> *EMNLP 2022 Main Conference (Long Paper)*  <font color="#dd0000"> (Oral) </font> </span> [[code + dataset]](https://github.com/thu-coai/CDConv) <br>
 Chujie Zheng, Jinfeng Zhou, **Yinhe Zheng**, Libiao Peng, Zhen Guo, Wenquan Wu, Zheng-Yu Niu, Hua Wu, Minlie Huang <br>
 
 [**Semi-Supervised Lifelong Language Learning**](https://aclanthology.org/2022.findings-emnlp.290/) <br>
@@ -39,7 +39,7 @@ Yi Dai, Hao Lang, **Yinhe Zheng**, Fei Huang, Luo Si, Yongbin Li <br>
 Sahand Sabour, Wen Zhang, Xiyao Xiao, Yuwei Zhang, **Yinhe Zheng**, Jiaxin Wen, Jialu Zhao, Minlie Huang <br>
 
 [**MMChat: Multi-Modal Chat Dataset on Social Media**](https://aclanthology.org/2022.lrec-1.621/)  <br>
-<span style="color:#2aa198"> *LREC 2022*  <font color="#dd0000"> Oral </font>  </span>[[code + dataset]](https://github.com/silverriver/MMChat) <br>
+<span style="color:#2aa198"> *LREC 2022*  <font color="#dd0000"> (Oral) </font>  </span>[[code + dataset]](https://github.com/silverriver/MMChat) <br>
 **Yinhe Zheng**, Guanyi Chen, Xin Liu, Jian Sun <br>
 
 [**Improving Meta-learning for Low-resource Text Classification and Generation via Memory Imitation**](https://aclanthology.org/2022.acl-long.44/) <br>
@@ -51,7 +51,7 @@ Yingxiu Zhao, Zhiliang Tian, Huaxiu Yao, **Yinhe Zheng**, Dongkyu Lee, Yiping So
 Siyang Liu, Sahand Sabour, **Yinhe Zheng**, Pei Ke, Xiaoyan Zhu, Minlie Huang <br> 
 
 [**GALAXY: A Generative Pre-trained Model for Task-Oriented Dialog with Semi-Supervised Learning and Explicit Policy Injection**](https://ojs.aaai.org/index.php/AAAI/article/download/21320/version/19607/21069) <br>
-<span style="color:#2aa198"> *AAAI 2022 (Long Paper)*  <font color="#dd0000"> Oral </font>  </span> [[code]](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/space-1) <br>
+<span style="color:#2aa198"> *AAAI 2022 (Long Paper)*  <font color="#dd0000"> (Oral) </font>  </span> [[code]](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/space-1) <br>
 Wanwei He, Yinpei Dai, **Yinhe Zheng**, Yuchuan Wu, Zheng Cao, Dermot Liu, Peng Jiang, Min Yang, Fei Huang, Luo Si, Jian Sun, Yongbin Li <br> 
 
 ### 2021
@@ -61,7 +61,7 @@ Wanwei He, Yinpei Dai, **Yinhe Zheng**, Yuchuan Wu, Zheng Cao, Dermot Liu, Peng 
 **Yinhe Zheng**, Zikai Chen, Rongsheng Zhang, Shilei Huang, Xiaoxi Mao, Minlie Huang <br>
 
 [**Diversifying Dialog Generation via Adaptive Label Smoothing**](https://aclanthology.org/2021.acl-long.272/) <br>
-<span style="color:#2aa198"> *ACL 2021 Main Conference (Long Paper)*  <font color="#dd0000"> Oral </font>  </span> [[code]](https://github.com/lemon234071/AdaLabel) <br>
+<span style="color:#2aa198"> *ACL 2021 Main Conference (Long Paper)*  <font color="#dd0000"> (Oral) </font>  </span> [[code]](https://github.com/lemon234071/AdaLabel) <br>
 Yida Wang\*, **Yinhe Zheng\***, Yong Jiang, Minlie Huang <br>
 
 [**Transferable Persona-Grounded Dialogues via Grounded Minimal Edits**](https://aclanthology.org/2021.emnlp-main.183/) <br>
@@ -91,7 +91,7 @@ Chen Henry Wu, **Yinhe Zheng**, Yida Wang, Zhenyu Yang, Minlie Huang <br>
 Rongsheng Zhang\*, **Yinhe Zheng\***, Jianzhi Shao, Xiaoxi Mao, Yadong Xi, Minlie Huang <br>
 
 [**A large-scale chinese short-text conversation dataset**](https://arxiv.org/pdf/2008.03946.pdf) <br>
-<span style="color:#2aa198"> *NLPCC 2020*  </span> <font color="#dd0000"> **Best Student Paper** </font> [[code + dataset]](https://github.com/thu-coai/CDial-GPT) <br>
+<span style="color:#2aa198"> *NLPCC 2020*  </span> <font color="#dd0000"> (Best Student Paper) </font> [[code + dataset]](https://github.com/thu-coai/CDial-GPT) <br>
 Yida Wang, Pei Ke, **Yinhe Zheng**, Kaili Huang, Yong Jiang, Xiaoyan Zhu, Minlie Huang <br>
 
 [**Out-of-domain detection for natural language understanding in dialog systems**](https://arxiv.org/pdf/1909.03862) <br>
@@ -109,7 +109,7 @@ Guanyi Chen, **Yinhe Zheng**, Yupei Du <br>
 **Yinhe Zheng**, Guanyi Chen, Minlie Huang, Song Liu, Xuan Zhu <br>
 
 [**Persona-aware Dialogue Generation with Enriched Profile**](http://alborz-geramifard.com/workshops/neurips19-Conversational-AI/Papers/14.pdf) <br>
-<span style="color:#2aa198"> *NIPS2019 ConvAI Workshop* </span> <font color="#dd0000"> **Best Paper Nominee** </font> <br>
+<span style="color:#2aa198"> *NIPS2019 ConvAI Workshop* </span> <font color="#dd0000"> (Best Paper Nominee) </font> <br>
 **Yinhe Zheng**, Guanyi Chen, Minlie Huang, Song Liu, Xuan Zhu <br>
 
 
