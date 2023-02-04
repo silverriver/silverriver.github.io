@@ -51,8 +51,7 @@ A sample Dialogue from PersonaDilaog
 ### Download
 
 The PersonalDialog dataset contains various persona-related information collected from the web.
-You can find some sample data [here](https://worksheets.codalab.org/bundles/0x5fa30866143a4431a5bc743a37035330).
-You need to email me if you want a download link.
+You can find the download link of PersonalDialog [here](https://github.com/silverriver/PersonalDilaog).
 
 ### Reference
 
