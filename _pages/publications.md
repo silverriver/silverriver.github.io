@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find all my papers on my [Google Scholar profile](https://scholar.google.com/citations?user=FhU-R7kAAAAJ).
 
-\* indicates equal contribution
+\* indicates equal contribution, \*\* indicates corresponding author.
 ### 2022
 
 [**Prompt Conditioned VAE: Enhancing Generative Replay for Lifelong Learning in Task-Oriented Dialogue**](https://aclanthology.org/2022.emnlp-main.766/) <br>

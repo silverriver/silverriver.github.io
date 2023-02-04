@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yinhe's Page"
+title                    : "Yinhe Zheng"
 title_separator          : "|"
 name                     : &name "郑银河 Yinhe Zheng"
 description              : &description "Yinhe's Site"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Yinhe Zheng (郑银河)"
   avatar           : "yinhe.jpg"
-  bio              : "Research scientist"
+  bio              : "Research Scientist"
   location         : 
   employer         : "miHoYo, Beijing"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
