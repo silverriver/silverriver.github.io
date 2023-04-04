@@ -22,7 +22,7 @@ You can find more details from this paper: [A Large-Scale Chinese Short-Text Con
 
 ### Download
 
-You can find the download link of LCCC from this [repo](https://github.com/thu-coai/CDial-GPT).
+You can find the download link of LCCC from this [repo](https://github.com/thu-coai/CDial-GPT) or huggingface [Dataset Zoo](https://huggingface.co/datasets/silver/lccc).
 
 ### Reference
 

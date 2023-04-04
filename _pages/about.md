@@ -10,21 +10,26 @@ redirect_from:
 
 Welcome to my site!
 
-I am currently working as a research scientist at miHoYo in Beijing.
+I am currently working as a research scientist at miHoYo.
 Prior to that, I was a senior algorithm engineer at the Conversational AI Group of DAMO Academy, Alibaba.
 I finished my postdoctoral research in a joint program established on both Tsinghua University and Samsung Research.
-My postdoctoral research has been fortunate to be advised by Prof. [Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml) and Prof. [Xiaoyan Zhu](https://www.cs.tsinghua.edu.cn/info/1121/3550.htm), both of whom provide much help on my work in NLP and Dialogue Systems.
-
 My research interests are in conversational AI, especially natural language understanding and controlled response generation.
-If you are interested in my work, feel free to reach out.
 
 You may also be interested in some of the Dialogue System datasets I have constructed.
 You can check them out in the [Datasets](/datasets) section.
 
 ## Selected Publications
-See the full list [here](/publication).
+
+See the full list [here](/publications).
 
 \* indicates equal contribution, \*\* indicates corresponding author.
+
+### 2023
+
+[**Empathetic Response Generation via Emotion Cause Transition Graph**](https://arxiv.org/abs/2302.11787) <br>
+<span style="color:#2aa198"> *ICASSP 2023* </span>  <br>
+Yingxiu Zhao, **Yinhe Zheng**, Zhiliang Tian, Chang Gao, Jian Sun, Nevin L. Zhang <br>
+
 ### 2022
 
 [**Prompt Conditioned VAE: Enhancing Generative Replay for Lifelong Learning in Task-Oriented Dialogue**](https://aclanthology.org/2022.emnlp-main.766/) <br>

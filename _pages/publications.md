@@ -5,9 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find all my papers on my [Google Scholar profile](https://scholar.google.com/citations?user=FhU-R7kAAAAJ).
-
 \* indicates equal contribution, \*\* indicates corresponding author.
+
+### 2023
+
+[**Empathetic Response Generation via Emotion Cause Transition Graph**](https://arxiv.org/abs/2302.11787) <br>
+<span style="color:#2aa198"> *ICASSP 2023* </span>  <br>
+Yingxiu Zhao, **Yinhe Zheng**, Zhiliang Tian, Chang Gao, Jian Sun, Nevin L. Zhang <br>
+
 ### 2022
 
 [**Prompt Conditioned VAE: Enhancing Generative Replay for Lifelong Learning in Task-Oriented Dialogue**](https://aclanthology.org/2022.emnlp-main.766/) <br>
