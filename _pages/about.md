@@ -26,9 +26,29 @@ See the full list [here](/publications).
 
 ### 2023
 
+[**Long-Tailed Question Answering in an Open World**](https://arxiv.org/abs/2305.06557) <br>
+<span style="color:#2aa198"> *ACL 2022 Main Conference (Long Paper)* </span>  <br>
+Yi Dai, Hao Lang, **Yinhe Zheng**, Fei Huang, Yongbin Li <br>
+
+[**Domain Incremental Lifelong Learning in an Open World**](https://arxiv.org/abs/2305.06555) <br>
+<span style="color:#2aa198"> *ACL 2022 Fandings (Long Paper)* </span>  <br>
+Yi Dai, Hao Lang, **Yinhe Zheng**, Bowen Yu, Fei Huang, Yongbin Li <br>
+
+[**A chatbot for mental health support: exploring the impact of Emohaa on reducing mental distress in China**](https://www.frontiersin.org/articles/10.3389/fdgth.2023.1133987/full) <br>
+<span style="color:#2aa198"> *Frontiers in Digital Health* </span>  <br>
+Sahand Sabour, Wen Zhang, Xiyao Xiao, Yuwei Zhang, **Yinhe Zheng**, Jiaxin Wen, Jialu Zhao, Minlie Huang <br>
+
 [**Empathetic Response Generation via Emotion Cause Transition Graph**](https://arxiv.org/abs/2302.11787) <br>
 <span style="color:#2aa198"> *ICASSP 2023* </span>  <br>
-Yingxiu Zhao, **Yinhe Zheng**, Zhiliang Tian, Chang Gao, Jian Sun, Nevin L. Zhang <br>
+Yushan Qian, Bo Wang, Ting-En Lin, **Yinhe Zheng**, Ying Zhu, Dongming Zhao, Yuexian Hou, Yuchuan Wu, Yongbin Li <br>
+
+[**A Survey on Out-of-Distribution Detection in NLP**](https://arxiv.org/abs/2305.03236) <br>
+<span style="color:#2aa198"> *Pre-print 2023* </span>  <br>
+Hao Lang, **Yinhe Zheng**, Yixuan Li, Jian Sun, Fei Huang, Yongbin Li <br>
+
+[**Out-of-Domain Intent Detection Considering Multi-turn Dialogue Contexts**](https://arxiv.org/abs/2305.03237) <br>
+<span style="color:#2aa198"> *Pre-print 2023* </span>  <br>
+Hao Lang, **Yinhe Zheng**, Binyuan Hui, Fei Huang, Yongbin Li <br>
 
 ### 2022
 
