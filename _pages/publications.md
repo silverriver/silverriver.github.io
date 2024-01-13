@@ -7,14 +7,25 @@ author_profile: true
 
 \* indicates equal contribution, \*\* indicates corresponding author.
 
+### 2024
+
+[**A Survey on Out-of-Distribution Detection in NLP**](https://arxiv.org/abs/2305.03236) <br>
+<span style="color:#2aa198"> *Transactions on Machine Learning Research* </span>  <br>
+Hao Lang, **Yinhe Zheng**, Yixuan Li, Jian Sun, Fei Huang, Yongbin Li <br>
+
 ### 2023
 
+[**PIPPA: A Partially Synthetic Conversational Dataset**](https://arxiv.org/abs/2308.05884) <br>
+<span style="color:#2aa198"> *Pre-print 2023* </span> [dataset](https://huggingface.co/datasets/PygmalionAI/PIPPA) <br>
+Tear Gosling, Alpin Dale, **Yinhe Zheng** <br>
+This paper is proudly coauthored with [PygmalionAI](https://huggingface.co/PygmalionAI) devs. <br>
+
 [**Long-Tailed Question Answering in an Open World**](https://arxiv.org/abs/2305.06557) <br>
-<span style="color:#2aa198"> *ACL 2022 Main Conference (Long Paper)* </span>  <br>
+<span style="color:#2aa198"> *ACL 2023 Main Conference (Long Paper)* </span>  <br>
 Yi Dai, Hao Lang, **Yinhe Zheng**, Fei Huang, Yongbin Li <br>
 
 [**Domain Incremental Lifelong Learning in an Open World**](https://arxiv.org/abs/2305.06555) <br>
-<span style="color:#2aa198"> *ACL 2022 Fandings (Long Paper)* </span>  <br>
+<span style="color:#2aa198"> *ACL 2023 Fandings (Long Paper)* </span>  <br>
 Yi Dai, Hao Lang, **Yinhe Zheng**, Bowen Yu, Fei Huang, Yongbin Li <br>
 
 [**A chatbot for mental health support: exploring the impact of Emohaa on reducing mental distress in China**](https://www.frontiersin.org/articles/10.3389/fdgth.2023.1133987/full) <br>
@@ -25,13 +36,10 @@ Sahand Sabour, Wen Zhang, Xiyao Xiao, Yuwei Zhang, **Yinhe Zheng**, Jiaxin Wen, 
 <span style="color:#2aa198"> *ICASSP 2023* </span>  <br>
 Yushan Qian, Bo Wang, Ting-En Lin, **Yinhe Zheng**, Ying Zhu, Dongming Zhao, Yuexian Hou, Yuchuan Wu, Yongbin Li <br>
 
-[**A Survey on Out-of-Distribution Detection in NLP**](https://arxiv.org/abs/2305.03236) <br>
-<span style="color:#2aa198"> *Pre-print 2023* </span>  <br>
-Hao Lang, **Yinhe Zheng**, Yixuan Li, Jian Sun, Fei Huang, Yongbin Li <br>
-
 [**Out-of-Domain Intent Detection Considering Multi-turn Dialogue Contexts**](https://arxiv.org/abs/2305.03237) <br>
 <span style="color:#2aa198"> *Pre-print 2023* </span>  <br>
 Hao Lang, **Yinhe Zheng**, Binyuan Hui, Fei Huang, Yongbin Li <br>
+
 ### 2022
 
 [**Prompt Conditioned VAE: Enhancing Generative Replay for Lifelong Learning in Task-Oriented Dialogue**](https://aclanthology.org/2022.emnlp-main.766/) <br>
